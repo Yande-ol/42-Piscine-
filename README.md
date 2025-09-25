@@ -1,7 +1,7 @@
 # 42 Piscine 🏊
 
 ![Language: C](https://img.shields.io/badge/language-C-blue.svg) 
-![Status: Active](https://img.shields.io/badge/status-in%20progress-brightgreen.svg) 
+![Status: Active](https://img.shields.io/badge/status-active-brightgreen.svg) 
 ![Contributions: Welcome](https://img.shields.io/badge/contributions-welcome-orange.svg)
 
 ---
