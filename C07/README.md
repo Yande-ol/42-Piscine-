@@ -19,4 +19,6 @@
 
 - Dynamic memory allocation in C using `malloc` and `free`.  
 - Handling strings and arrays of strings in memory.  
-- Implem
+- Implementing string operations like concatenation and splitting.  
+- Base conversion logic and careful handling of signs and whitespaces.  
+- Pointer manipulation and returning dynamic arrays safely.
