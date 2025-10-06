@@ -66,6 +66,11 @@ If you want to study at home with a setup similar to 42:
 
 ---
 
+## OBS!
+To study for the final exam, take a look at this repository. Good luck!!  --> https://github.com/Yande-ol/Exams-Practice
+
+---
+
 ## 🎯 Final Words
 
 The Piscine is not just about coding.  
